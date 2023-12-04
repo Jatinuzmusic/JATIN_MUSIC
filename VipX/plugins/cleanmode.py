@@ -9,9 +9,9 @@ from pyrogram.raw import types
 import config
 from config import adminlist, chatstats, clean, userstats
 from strings import get_command
-from VipX import app, userbot
-from VipX.misc import SUDOERS
-from VipX.utils.database import (get_active_chats,
+from Jukemusic import app, userbot
+from Jukemusic.misc import SUDOERS
+from Jukemusic.utils.database import (get_active_chats,
                                        get_authuser_names, get_client,
                                        get_particular_top,
                                        get_served_chats,
