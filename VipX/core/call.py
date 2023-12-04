@@ -19,9 +19,9 @@ from pytgcalls.types.stream import StreamAudioEnded
 
 import config
 from strings import get_string
-from VipX import LOGGER, YouTube, app
-from VipX.misc import db
-from VipX.utils.database import (add_active_chat,
+from Jukemusic import LOGGER, YouTube, app
+from Jukemusic.misc import db
+from Jukemusic.utils.database import (add_active_chat,
                                        add_active_video_chat,
                                        get_assistant,
                                        get_audio_bitrate, get_lang,
