@@ -7,11 +7,11 @@ from config import LOG_GROUP_ID
 from VipX import app  
 
 photo = [
-    "https://telegra.ph/file/1b819cfbcb2a2d3c738f6.jpg",
+    "https://telegra.ph/file/fdd0d82bbf008c488d72f.jpg",
     "https://telegra.ph/file/3021c823c7f006658682f.jpg",
-    "https://telegra.ph/file/05561f0fbf323e057ab87.jpg",
-    "https://telegra.ph/file/7a6b51ee0077724254ca7.jpg",
-    "https://telegra.ph/file/b3de9e03e5c8737ca897f.jpg",
+    "https://telegra.ph/file/fdd0d82bbf008c488d72f.jpg",
+    "https://telegra.ph/file/3ee9fda7e004287928dcf.jpg",
+    "https://telegra.ph/file/3ee9fda7e004287928dcf.jpg",
 ]
 
 
